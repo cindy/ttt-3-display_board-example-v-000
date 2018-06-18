@@ -3,6 +3,9 @@
 def display_board
   display_cells
   add_separator
+  display_cells
+  add_separator
+  display_cells
 end
 
 def display_cells
