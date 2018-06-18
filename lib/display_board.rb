@@ -2,4 +2,4 @@
 
 def display_board
   pass
-end 
+end
