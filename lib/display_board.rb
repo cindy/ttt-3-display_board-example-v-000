@@ -2,7 +2,7 @@
 
 def display_board
   display_cell
-  display_separator
+  add_separator
 end
 
 def display_cell
