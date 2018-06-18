@@ -9,6 +9,6 @@ def display_cell
   puts "   |   |   \n"
 end
 
-def display_separator
+def add_separator
   puts "-----------\n"
 end
