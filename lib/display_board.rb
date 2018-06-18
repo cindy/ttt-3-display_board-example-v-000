@@ -12,3 +12,5 @@ end
 def add_separator
   puts "-----------\n"
 end
+
+display_board
